@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[cite_start]A Programmer with over 10 years of experience in web application development and system analysis[cite: 5]. [cite_start]I specialize in building efficient, scalable software solutions using PHP, Java, and frameworks like CodeIgniter and Spring Boot[cite: 6]. [cite_start]I am passionate about leveraging new technologies, including AI, to drive organizational success[cite: 7, 8].
+A Programmer with over 10 years of experience in web application development and system analysis.I specialize in building efficient, scalable software solutions using PHP, Java, and frameworks like CodeIgniter and Spring Boot. I am passionate about leveraging new technologies, including AI, to drive organizational success.
 
 ---
 

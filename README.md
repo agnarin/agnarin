@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Backend Developer | Programmer | System Analyst with over 10 years of experience in web application development and system analysis. I specialize in building efficient, scalable software solutions and am passionate about leveraging new technologies, including AI, to drive organizational success.
+[cite_start]A Programmer with over 10 years of experience in web application development and system analysis[cite: 5]. [cite_start]I specialize in building efficient, scalable software solutions using PHP, Java, and frameworks like CodeIgniter and Spring Boot[cite: 6]. [cite_start]I am passionate about leveraging new technologies, including AI, to drive organizational success[cite: 7, 8].
 
 ---
 
@@ -51,38 +51,35 @@ Backend Developer | Programmer | System Analyst with over 10 years of experience
 ## 🚀 Professional Experience
 
 **Backend Developer** @ Apar Technologies (Outsource at SEO)
-[cite_start]*(February 2025 - Present)* [cite: 17, 18]
--   [cite_start]Developed high-traffic Backend, APIs, and Microservices using PHP CodeIgniter 3 for over 50,000 daily active users. [cite: 19]
--   [cite_start]Achieved a 37% reduction in system downtime by optimizing database queries in MySQL, MongoDB, and Redis. [cite: 20, 21]
--   [cite_start]Reduced production bugs by 25% through the implementation of comprehensive unit tests. [cite: 22]
+*(February 2025 - Present)*
+-  Developed high-traffic Backend, APIs, and Microservices using PHP CodeIgniter 3 for over 50,000 daily active users
+-  Achieved a 37% reduction in system downtime by optimizing database queries in MySQL, MongoDB, and Redis
+- Reduced production bugs by 25% through the implementation of comprehensive unit tests
 
 **Senior Programmer** @ ADA SOFT
-[cite_start]*(August 2023 - January 2025)* [cite: 25, 26]
--   [cite_start]Led Full Stack development of a POS system using PHP CodeIgniter 3, Laravel, MSSQL, and Docker. [cite: 30]
--   [cite_start]Decreased redundant client workflows by 15% through effective system design and requirement analysis. [cite: 27]
--   [cite_start]Reduced system downtime by 30% via MSSQL query and stored procedure optimization. [cite: 31]
--   [cite_start]Integrated RabbitMQ for message queuing to manage server load during peak traffic. [cite: 31]
+*(August 2023 - January 2025)*
+-   Led Full Stack development of a POS system using PHP CodeIgniter 3, Laravel, MSSQL, and Docker
+-   Decreased redundant client workflows by 15% through effective system design and requirement analysis
+-   Reduced system downtime by 30% via MSSQL query and stored procedure optimization
+-   Integrated RabbitMQ for message queuing to manage server load during peak traffic
 
 **Programmer** @ Extend IT Resource (Outsource at AIS)
-[cite_start]*(August 2021 - July 2023)* [cite: 36, 37]
--   [cite_start]Developed `www.become-ais-family.ais.co.th` as a Full Stack Developer (Java/Groovy, Vue.js) to support over 50,000 daily users. [cite: 38]
--   [cite_start]Cut system downtime by 25% and production bugs by 20% through database optimization and unit testing. [cite: 39]
--   [cite_start]Operated within an Agile/Scrum environment, mentoring team members and leading requirement-gathering meetings. [cite: 40]
+*(August 2021 - July 2023)*
+-   Developed `www.become-ais-family.ais.co.th` as a Full Stack Developer (Java/Groovy, Vue.js) to support over 50,000 daily users
+-   Cut system downtime by 25% and production bugs by 20% through database optimization and unit testing
+-   Operated within an Agile/Scrum environment, mentoring team members and leading requirement-gathering meetings
+**Web Programmer** @ Comanche International
+*(July 2017 - July 2021)*
+-   Designed and developed Hotel Software, achieving high satisfaction for over 10 clients.
+-   Led program testing and defect resolution, resulting in a 25% reduction in bugs during live operation.
+-   Developed new functions as a Full Stack Developer (Java/Groovy/C#/.Net MVC) within a Waterfall model.
+-   Managed program installation and provided post-deployment support, resolving client issues within a 24-hour timeframe.
 
-... and more! Check out my [**LinkedIn**](https://linkedin.com/in/agnarin) for full career details.
+... and more! Check out my [**LinkedIn**] (https://www.linkedin.com/in/agnarin-kamseng569/) for full career details.
 
 ---
 
 ## 🎓 Education
 
 **Bachelor's Degree, Information Technology** (Software Technology)
-[cite_start]*Bansomdejchaopraya Rajabhat University* [cite: 69, 70]
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Agnarin"><img src="https://github-readme-stats.vercel.app/api?username=Agnarin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agnarin's GitHub stats" /></a>
-
-<a href="http://www.github.com/Agnarin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnarin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Agnarin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnarin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+*Bansomdejchaopraya Rajabhat University*

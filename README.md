@@ -75,7 +75,7 @@
 -   Developed new functions as a Full Stack Developer (Java/Groovy/C#/.Net MVC) within a Waterfall model.
 -   Managed program installation and provided post-deployment support, resolving client issues within a 24-hour timeframe.
 
-... and more! Check out my [**LinkedIn**][https://linkedin.com/in/agnarin](https://www.linkedin.com/in/agnarin-kamseng569/) for full career details.
+... and more! Check out my [**LinkedIn**][https://linkedin.com/in/agnarin-kamsaeng569](https://www.linkedin.com/in/agnarin-kamseng569/) for full career details.
 
 ---
 
